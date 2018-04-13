@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 这是bbb
-=======
 又要建立了
->>>>>>> cebad2d75cbebc13b6da538eaf1cf2110961e83f
+
